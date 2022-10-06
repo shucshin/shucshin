@@ -2,7 +2,7 @@
 
 Just a casual noob interested in Competitive Programming aiming to go to Silicon Valley
 
-- 🔭 I’m currently working on [Daily Coding Challenge](https://github.com/shucshin/DailyCodingChallenge)
+- :game_die: I’m currently working on [Daily Coding Challenge](https://github.com/shucshin/DailyCodingChallenge)
 
 ### Connect with me
 <p align="left">
