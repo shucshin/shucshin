@@ -1,5 +1,8 @@
 <h2 align="center">Henlo hooman 🧑‍💻</h2>
 
+> Computer Scientist.
+> Facultad de Ciencias, UNAM.
+
 Just a casual noob interested in Competitive Programming aiming to go to Silicon Valley
 
 - :game_die: I’m currently working on [Daily Coding Challenge](https://github.com/shucshin/DailyCodingChallenge)
