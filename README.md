@@ -1,4 +1,4 @@
-<h1 align="center">Henlo hooman 🧑‍💻</h1>
+<h2 align="center">Henlo hooman 🧑‍💻</h2>
 
 > Computer Scientist <br />
 > Facultad de Ciencias, UNAM
