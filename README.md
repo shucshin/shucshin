@@ -1,7 +1,7 @@
-<h2 align="center">Henlo hooman 🧑‍💻</h2>
+<h1 align="center">Henlo hooman 🧑‍💻</h1>
 
-> Computer Scientist.
-> Facultad de Ciencias, UNAM.
+> Computer Scientist <br />
+> Facultad de Ciencias, UNAM
 
 Just a casual noob interested in Competitive Programming aiming to go to Silicon Valley
 
