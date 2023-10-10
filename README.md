@@ -5,13 +5,13 @@
 
 Just a casual noob interested in Competitive Programming aiming to go to Silicon Valley
 
-- :game_die: I’m currently working on [Daily Coding Challenge](https://github.com/shucshin/DailyCodingChallenge)
+- :technologist: Currently focusing on [Competitive Programming](https://codeforces.com/profile/shucshin)
 
 ### Connect with me
 <p align="left">
 <a href="https://codeforces.com/profile/shucshin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shucshin" height="30" width="40" /></a>
-<a href="https://instagram.com/uchshiin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uchshiin" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shuc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shuc" height="30" width="40" /></a>
+<a href="https://instagram.com/uchshiin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uchshiin" height="30" width="40" /></a>
 </p>
 
 ### Programming Languages
